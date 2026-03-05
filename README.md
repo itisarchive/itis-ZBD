@@ -2,10 +2,10 @@
   <div>
     <img width="80" src="https://raw.githubusercontent.com/itischrisd/itis-PJATK/main/logo.svg" alt="PJAIT logo" />
   </div>
-  RBD (Relational Databases)
+  ZBD (Database Management)
 </h1>
 
-Repository that contains solutions to the exercises for the ZBD (Relational Databases) practical classes taught by Piotr
+Repository that contains solutions to the exercises for the ZBD (Database Management) practical classes taught by Piotr
 Gago and Paweł Lenkiewicz during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 The following code is distributed under the [GPLv3](./LICENSE).
